@@ -8,13 +8,20 @@
 - HTML, CSS and Javascript
 
 
-## Screenshot
+## Desktop Version 
+
+![2022-05-08_18-46-58](https://user-images.githubusercontent.com/78845635/167299360-18f3d505-325e-47fe-9da4-d018ea4ce3cb.jpg)
+
+
+## Mobile Version 
+
+![2022-05-08_18-51-54](https://user-images.githubusercontent.com/78845635/167299430-b1cd9234-99cc-42c6-ad63-5b3aa1af7967.jpg)
 
 
 
 ## Live Preview
 
-<!-- -This site was built using [GitHub Pages](https://safar1212.github.io/Portfolio/). -->
+-This site was built using [GitHub Pages](https://safar1212.github.io/calculator-using-JS/).
 
 
 
